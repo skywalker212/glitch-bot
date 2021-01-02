@@ -13,4 +13,6 @@ The first option may seem tempting, and it's the best one but it has some issues
 
 ## Miscellaneous
 
-This repo serves as my notebook (what an irony) as I carry out various experiments to reach the end goal of creating a super intelligence that will generate glitched images. There is no timeline, I will try to work on this as much as I can. Look at changelog for recent updates.
+This repo serves as my notebook (what an irony) as I carry out various experiments to reach the end goal of creating a super intelligence that will generate glitched images. There is no timeline, I will try to work on this as much as I can. Look at changelog for recent updates (bear with me while I setup the release workflow, learning github actions to handle releases)
+
+-Akash 
