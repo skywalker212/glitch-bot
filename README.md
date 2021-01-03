@@ -1,5 +1,5 @@
 # glitch-bot
-A GAN model that takes images an input and returns pixel sorted (glitched) images as output.
+A deep learning model that takes images an input and returns pixel sorted (glitched) images as output.
 
 We can say that this is pretty straight forward and we don't need a deep learning model for that. I agree. But I want to see if introducing deep learning into the rule based pixel sorting method results in any improvement or not.
 
